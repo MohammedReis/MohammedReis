@@ -24,5 +24,7 @@
   <a href = "mailto:mohammedreis2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mohammed-menezes-a28905193" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+ ![Snak animation](https://github.com/MohammedReis/MohammedReis/blob/output/github-contribution-grid-snake.svg)
 </div>
+
 
