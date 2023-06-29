@@ -24,8 +24,6 @@
   <img align="center" alt="Moh-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Moh-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Moh-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Moh-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Moh-CentOs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg">
   
   
 </div>
